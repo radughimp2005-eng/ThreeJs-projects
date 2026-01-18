@@ -1,24 +1,25 @@
 # Three.js Project: Variations on Physics
 
-Welcome! 👋  
+Welcome!  
 This project is the codebase behind the YouTube video:  
-🎥 **[Three.js Project: Variations on Physics](https://youtu.be/vi2ud9LNkpA)**
+ **[Three.js Project: Variations on Physics](https://youtu.be/vi2ud9LNkpA)**
 
 In this project, we combine **Three.js** real-time 3D rendering with **Rapier Physics** to create interactive, an animated 3D physics experiment.  
 
----
+# Purpose
+This project was made for me to learn ThreeJs using new techniques I haven't used before as a personal project for Front-end semester at Fontys university.
 
 ## 🛠 Features
-- 🌌 Real-time 3D rendering with **Three.js**
-- 🧲 Interactive physics simulation powered by **Rapier Physics Engine**
-- 🎛 OrbitControls for smooth camera movement
-- 🖱 Mouse-controlled physics object ("mouse ball")
-- 💡 High Dynamic Range (HDR) environment lighting
-- 🎨 Debug visualization of physics bodies
+ Real-time 3D rendering with **Three.js**
+ Interactive physics simulation powered by **Rapier Physics Engine**
+ OrbitControls for smooth camera movement
+ Mouse-controlled physics object ("mouse ball")
+ High Dynamic Range (HDR) environment lighting
+ Debug visualization of physics bodies
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 - [Three.js](https://threejs.org/)
 - [Rapier Physics Engine](https://rapier.rs/)
 - [UltraHDRLoader](https://github.com/mrdoob/three.js/blob/dev/examples/jsm/loaders/UltraHDRLoader.js)
@@ -26,7 +27,7 @@ In this project, we combine **Three.js** real-time 3D rendering with **Rapier Ph
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone or download this project.
 2. You’ll need a local server if loading local modules or textures:
@@ -39,14 +40,14 @@ In this project, we combine **Three.js** real-time 3D rendering with **Rapier Ph
 
 ---
 
-## ⚙️ Controls
+##  Controls
 - **Mouse Movement** → Moves the "mouse ball" through 3D space.
 - **OrbitControls** → Drag to rotate the camera, scroll to zoom in/out.
 
 ---
 
-## 📺 Watch the Tutorial
-👉 [Watch the Full YouTube Video Here!](https://youtu.be/vi2ud9LNkpA)
+##  Watch the Tutorial
+ [Watch the Full YouTube Video Here!](https://youtu.be/vi2ud9LNkpA)
 
 ---
 
