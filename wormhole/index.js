@@ -71,7 +71,7 @@ boxTexture.wrapS = THREE.ClampToEdgeWrapping;
 boxTexture.wrapT = THREE.ClampToEdgeWrapping;
 
 const numBoxes = 300;
-const size = 0.06; // make cubes bigger so the image is readable
+const size = 0.06; 
 const boxGeo = new THREE.BoxGeometry(size, size, size);
 for (let i = 0; i < numBoxes; i += 1) {
   const boxMat = new THREE.MeshBasicMaterial({
